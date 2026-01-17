@@ -27,7 +27,7 @@ Aqui estão todos os mapas disponíveis. Cada mapa possui seu próprio ramo com 
 
 * **Descrição:** Mapa do posto *Limited Gasoline* inspirado no GTA V.
   Decidi não fazer 100% idêntico, pois achei que não ficaria tão legal — preferi seguir a ideia original com algumas adaptações criativas.
-* 🔗 [Acessar link do mapa]() <!-- Link para o ramo deste mapa -->
+* 🔗 [Acessar link do mapa](https://github.com/mateusdelimap/Postos/tree/main/PostoLTD) <!-- Link para o ramo deste mapa -->
 
 ---
 
