@@ -14,7 +14,7 @@ Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
 ## 💡 Destaques do Mapa
 
-- **Ambiente detalhado**: Casas e becos realistas que imersam os jogadores no cenário.
+- **Ambiente detalhado**: Com objetos modificados para que possa parecer com o GTA V.
 - **Versátil**: Perfeito para interações RP.
 - **Fácil de instalar**: Compatível com SAMP e de simples configuração.
 
